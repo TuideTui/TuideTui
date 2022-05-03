@@ -1,6 +1,6 @@
-- 👋 Olá, me chamo Arthur, mas também me chamam de Tui
-- 👀 Interessado em aprender coisas
-- 🌱 Atualmento estou estudando Python
+- 👋 Olá, me chamo Arthur, mas também me chamam de Tui 💻
+- 👀 Interessado em aprender coisas 📚
+- 🏆 Atualmento estou estudando Python 🐍
 
 ##
 
