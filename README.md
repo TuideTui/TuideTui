@@ -1,8 +1,8 @@
 ## Criador de conteúdo de tecnologia!
 
-- 👋 Olá, me chamo Arthur, mas também me chamam de Tui 💻
+- 👋 @Tui 💻
 - 👀 Interessado em aprender coisas 📚
-- 🏆 Atualmento estou estudando Python 🐍
+- Ciência da Computação
 
 ##
 
